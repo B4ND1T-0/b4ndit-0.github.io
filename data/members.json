@@ -17,5 +17,11 @@
         "socials": {
             "GitHub": "https://github.com/bytefactorX"
         }
+    },
+    {
+        "name": "re1gn",
+        "bio" : "somethin",
+        "tags": ["osint"],
+        "socials" : {}
     }
 ]
