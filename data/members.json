@@ -1,0 +1,20 @@
+[
+    {
+        "name": "miscrov",
+        "note": "(lead)",
+        "tags": ["reverse engineering"],
+        "bio" : "woot!\njust a blob doin blob things",
+        "socials": {
+            "Blog": "https://miscrov.dev",
+            "GitHub": "https://github.com/miscrov"
+        }
+    },
+    {
+        "name": "byte",
+        "bio" : "hi",
+        "tags": ["dev"],
+        "socials": {
+            "GitHub": "https://github.com/bytefactorX"
+        }
+    }
+]
